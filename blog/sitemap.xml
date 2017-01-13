@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-13T09:47:53-00:00</lastmod>
+<lastmod>2017-01-13T10:32:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-13T09:47:53-00:00</lastmod>
+<lastmod>2017-01-13T10:32:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-13T09:47:53-00:00</lastmod>
+<lastmod>2017-01-13T10:32:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-13T09:47:53-00:00</lastmod>
+<lastmod>2017-01-13T10:32:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -137,7 +137,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./20160113w18.html</loc>
+<loc>./2016fallcadpxue-qi-zi-ping-zong-jie.html</loc>
 <lastmod>2016-01-13T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -151,20 +151,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/solvespace.html</loc>
-<lastmod>2016-12-23T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/zhi-you-xiao-qing.html</loc>
-<lastmod>2016-11-25T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./tag/xue-qi-xin-de-zong-jie.html</loc>
 <lastmod>2016-01-13T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -172,15 +158,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/mei-you-shang-ke.html</loc>
-<lastmod>2016-11-25T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/huan-jing-she-ding.html</loc>
-<lastmod>2016-09-30T12:00:00+08:06</lastmod>
+<loc>./tag/jie-jue-wen-ti.html</loc>
+<lastmod>2016-10-28T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -200,8 +179,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/chuang-zao-li.html</loc>
-<lastmod>2016-11-04T12:00:00+08:06</lastmod>
+<loc>./tag/zhi-you-xiao-qing.html</loc>
+<lastmod>2016-11-25T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/mei-you-shang-ke.html</loc>
+<lastmod>2016-11-25T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/huan-jing-she-ding.html</loc>
+<lastmod>2016-09-30T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/zi-mo-zu.html</loc>
+<lastmod>2016-10-28T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -214,15 +214,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/jie-jue-wen-ti.html</loc>
-<lastmod>2016-10-28T12:00:00+08:06</lastmod>
+<loc>./tag/chuang-zao-li.html</loc>
+<lastmod>2016-11-04T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/zi-mo-zu.html</loc>
-<lastmod>2016-10-28T12:00:00+08:06</lastmod>
+<loc>./tag/solvespace.html</loc>
+<lastmod>2016-12-23T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
